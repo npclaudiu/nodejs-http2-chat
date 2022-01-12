@@ -1,0 +1,11 @@
+{
+  "name": "chat",
+  "version": "0.1.0",
+  "main": "server.js",
+  "repository": "git@github.com:npclaudiu/chat.git",
+  "author": "Claudiu Nedelcu <npclaudiu@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "mime-types": "^2.1.34"
+  }
+}
